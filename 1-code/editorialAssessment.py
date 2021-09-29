@@ -1,6 +1,9 @@
 # Harvest Crossref for editorial assessment dates for ISSN 1866-7538: Arabian Journal of Geosciences (https://www.springer.com/journal/12517)
 # See also https://retractionwatch.com/2021/08/26/guest-editor-says-journal-will-retract-dozens-of-inappropriate-papers-after-his-email-was-hacked/
 # See also https://retractionwatch.com/2021/09/28/springer-nature-slaps-more-than-400-papers-with-expressions-of-concern-all-at-once/
+#
+# Caveat: data come from Crossref and publishers might not have pushed comprehensive metadata (especially in the early years).
+#
 # @since   06-SEP-2021
 # @version 29-SEP-2021
 
